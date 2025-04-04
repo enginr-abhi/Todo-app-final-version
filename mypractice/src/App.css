@@ -1,0 +1,13 @@
+input{
+  width: 100%;
+}
+.myrow{
+  margin: 10px 20px;
+}
+.textleft{
+  text-align: left;
+}
+.myBtn{
+  float: left;
+  min-width: 70px;
+}
